@@ -1,6 +1,6 @@
 DBeaver
 
-26.2.0
+26.2.3
 
 README
 
